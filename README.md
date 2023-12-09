@@ -91,9 +91,9 @@ There are other variants of the Runge-Kutta method with different orders (e.g., 
 
 
 ### Accuracy
-Consistent
 
 ### Stability
+The stability of the Runge-Kutta Method is also conditionally stable, like Euler's Method.
 
 ### Derivation
 The derivation of Runge-Kutta Method can be seen by considering 
